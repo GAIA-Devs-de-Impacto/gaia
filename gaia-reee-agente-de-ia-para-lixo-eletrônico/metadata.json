@@ -1,0 +1,9 @@
+{
+  "name": "GAIA REEE Agente de IA para Lixo Eletrônico",
+  "description": "Um assistente inteligente para ajudá-lo a identificar, encontrar locais de descarte e aprender sobre lixo eletrônico. Os recursos incluem análise de imagem, um agente de voz em tempo real e um chatbot com informações atualizadas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
